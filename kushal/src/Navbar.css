@@ -1,0 +1,9 @@
+.navLink {
+	color: white; 
+	font-family: Arial; 
+	text-decoration: none;
+}
+.navLink:hover {
+	color: grey;
+	cursor: pointer;
+}
